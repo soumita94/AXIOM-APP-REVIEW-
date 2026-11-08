@@ -3,7 +3,7 @@
 ## Pages
 - `/` — AXIOM landing page
 - `/privacy-policy/` — expanded DPDP-oriented Privacy Policy draft
-- `/terms/` — expanded AXIOM Terms & Conditions draft
+- `/terms-&-condition/` — expanded AXIOM Terms & Conditions draft
 - `/data-deletion/` — User Data Deletion instructions
 
 ## Run locally
@@ -36,5 +36,5 @@ The data-deletion page is informational; it does not submit requests to a backen
 
 Suggested Meta URLs:
 - `https://axxiom.in/privacy-policy/`
-- `https://axxiom.in/terms/`
+- `https://axxiom.in/terms-&-condition/`
 - `https://axxiom.in/data-deletion/`
